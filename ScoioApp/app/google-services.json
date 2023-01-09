@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606099581628",
+    "project_id": "socioapp-adf78",
+    "storage_bucket": "socioapp-adf78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606099581628:android:474b105a6f52c1c208feb9",
+        "android_client_info": {
+          "package_name": "com.example.scoioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606099581628-4mvocc6c1fmoj8vkiv5ir081fqn0903g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWN8xD88rxXXMUWdInFayx18TdnkRWPPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606099581628-4mvocc6c1fmoj8vkiv5ir081fqn0903g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
